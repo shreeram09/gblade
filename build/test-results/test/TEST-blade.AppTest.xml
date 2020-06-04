@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="blade.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-04T07:18:29" hostname="NSEIT039" time="0.001">
+  <properties/>
+  <testcase name="testTrue" classname="blade.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
